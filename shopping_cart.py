@@ -17,5 +17,5 @@ class ShoppingCart:
     def get_items(self) -> List[str]:
         return self.items
 
-print  ("Change")
+print  ("There was no Change")
 print("No change")
