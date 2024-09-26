@@ -16,3 +16,5 @@ class ShoppingCart:
 
     def get_items(self) -> List[str]:
         return self.items
+
+print  ("Change")
